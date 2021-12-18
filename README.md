@@ -1,6 +1,4 @@
-<h1 align=center> Scraping Siops/Datasus</h1>
-<h2 align=center> Script para raspagem do Demonstrativo da despesa com saúde </h2>
-
+<h1 align=center> Series Temporais com Julia</h1>
 ---
 
 Uma série temporal é uma sequência de realizações (observações) de uma variável ao longo do tempo[1]. Dito de outra forma, é uma sequência de pontos (dados numéricos) em ordem sucessiva, geralmente ocorrendo em intervalos uniformes. Portanto, uma série temporal é uma sequência de números coletados em intervalos regulares durante um período de tempo.
